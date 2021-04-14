@@ -17,12 +17,12 @@ Citrix released StoreFront in XenDesktop and XenApp 7 as a replacement to the We
 ## This script checks the following parameters on servers: ##
 
 ## General Check
-- [] Site
-- [] HostBaseURL
-- [] URL Reachable
-- [] Last Source Server
-- [] Last Sync Status
-- [] Last Error Message
+[] Site
+[] HostBaseURL
+[] URL Reachable
+[] Last Source Server
+[] Last Sync Status
+[] Last Error Message
 ## Servers Check
   [] - Average CPU Usage
   [] - Memory Usage
