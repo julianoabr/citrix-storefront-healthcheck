@@ -61,14 +61,3 @@ Citrix released StoreFront in XenDesktop and XenApp 7 as a replacement to the We
 [x] - Citrix Telemetry Service
 
 [x] - WWW Publishing Service
-
-
-
-
-
-
-
-
-
-
-
