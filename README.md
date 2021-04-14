@@ -18,17 +18,28 @@ Citrix released StoreFront in XenDesktop and XenApp 7 as a replacement to the We
 
 1. General Check
   1. Site
-  1. HostBaseURL
-  1. URL Reachable
-  1. Last Source Server
-  1. Last Sync Status
-  1. Last Error Message
+  2. HostBaseURL
+  3. URL Reachable
+  4. Last Source Server
+  5. Last Sync Status
+  6. Last Error Message
 2. Servers Check
-   1. Average CPU Usage
-   1. Memory Usage
-   2. Disk Space Free
-   3. Amount of Citrix Events registered on last 24 houras
-2.
+  1. Average CPU Usage
+  2. Memory Usage
+  3. Disk Space Free
+  4. Amount of Citrix Events registered on last 24 houras
+3. Services Check on Servers
+  1. Citrix Peer Resolution Service
+  2. Citrix Cluster Join Service
+  3. Citrix Configuration Replication
+  4. Citrix Credential Wallet
+  5. Citrix Default Domain Service
+  6. Citrix Store Front Priviled Admin Service
+  7. Citrix Service Monitor
+  8. Citrix Subscription Store
+  9. Citrix Telemetry Service
+  10. WWW Publishing Service
+
 
 
 
