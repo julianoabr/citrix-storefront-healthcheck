@@ -12,6 +12,27 @@ StoreFront includes a [software developer's kit](https://whatis.techtarget.com/d
 Citrix released StoreFront in XenDesktop and XenApp 7 as a replacement to the Web Interface feature, but StoreFront is compatible with versions as far back as XenDesktop and XenApp 5.5. StoreFront is also included in Citrix's [Workspace Suite](https://searchvirtualdesktop.techtarget.com/definition/Citrix-Workspace-Suite) and [Workspace Cloud](https://searchvirtualdesktop.techtarget.com/definition/Citrix-Workspace-Cloud) products.
 
 
+# About this Script #
+
+## This script checks the following parameters on servers: ##
+
+1. General Check
+  1. Site
+  1. HostBaseURL
+  1. URL Reachable
+  1. Last Source Server
+  1. Last Sync Status
+  1. Last Error Message
+2. Servers Check
+   1. Average CPU Usage
+   1. Memory Usage
+   2. Disk Space Free
+   3. Amount of Citrix Events registered on last 24 houras
+2.
+
+
+
+
 
 
 
