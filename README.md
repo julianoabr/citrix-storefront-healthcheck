@@ -16,29 +16,29 @@ Citrix released StoreFront in XenDesktop and XenApp 7 as a replacement to the We
 
 ## This script checks the following parameters on servers: ##
 
-1. General Check
-  1. Site
-  1. HostBaseURL
-  1. URL Reachable
-  1. Last Source Server
-  1. Last Sync Status
-  1. Last Error Message
-2. Servers Check
-  2. Average CPU Usage
-  2. Memory Usage
-  2. Disk Space Free
-  2. Amount of Citrix Events registered on last 24 houras
-3. Services Check on Servers
-  3. Citrix Peer Resolution Service
-  3. Citrix Cluster Join Service
-  3. Citrix Configuration Replication
-  3. Citrix Credential Wallet
-  3. Citrix Default Domain Service
-  3. Citrix Store Front Priviled Admin Service
-  3. Citrix Service Monitor
-  3. Citrix Subscription Store
-  3. Citrix Telemetry Service
-  3. WWW Publishing Service
+## General Check
+  [] - Site
+  [] - HostBaseURL
+  [] - URL Reachable
+  [] - Last Source Server
+  [] - Last Sync Status
+  [] - Last Error Message
+## Servers Check
+  [] - Average CPU Usage
+  [] - Memory Usage
+  [] - Disk Space Free
+  [] - Amount of Citrix Events registered on last 24 houras
+ ## Services Check on Servers
+  [] - Citrix Peer Resolution Service
+  [] - Citrix Cluster Join Service
+  [] - Citrix Configuration Replication
+  [] - Citrix Credential Wallet
+  [] - Citrix Default Domain Service
+  [] - Citrix Store Front Priviled Admin Service
+  [] - Citrix Service Monitor
+  [] - Citrix Subscription Store
+  [] - Citrix Telemetry Service
+  [] - WWW Publishing Service
 
 
 
